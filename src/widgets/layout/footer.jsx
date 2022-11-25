@@ -42,11 +42,11 @@ export function Footer({ brandName, brandLink, routes }) {
 
 Footer.defaultProps = {
   brandName: "Museum Geologi Bandung",
-  brandLink: "https://www.museumgeologibandung.com",
+  brandLink: "https://geologi.esdm.go.id/",
   routes: [
-    { name: "Creative Tim", path: "https://www.creative-tim.com" },
-    { name: "About Us", path: "https://www.creative-tim.com/presentation" },
-    { name: "Blog", path: "https://www.creative-tim.com/blog" },
+    { name: "Creative Tim", path: "https://www.ulbi.ac.id/" },
+    { name: "About Us", path: "https://www.ulbi.ac.id/p/company-profile.html" },
+    { name: "Blog", path: "https://www.ulbi.ac.id/" },
     { name: "License", path: "https://www.creative-tim.com/license" },
   ],
 };

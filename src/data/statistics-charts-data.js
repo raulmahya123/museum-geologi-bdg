@@ -5,7 +5,7 @@ const websiteViewsChart = {
   height: 220,
   series: [
     {
-      name: "Views",
+      name: "Task",
       data: [50, 20, 10, 22, 50, 10, 40],
     },
   ],
@@ -73,21 +73,28 @@ const completedTasksChart = {
 export const statisticsChartsData = [
   {
     color: "blue",
-    title: "Vetebrata",
+    title: "Vetebrata Chart",
     description: "Last Campaign Performance",
     footer: "campaign sent 2 days ago",
     chart: websiteViewsChart,
   },
   {
     color: "pink",
-    title: "Daily Sales",
+    title: "Invetebrata Chart",
     description: "15% increase in today sales",
     footer: "updated 4 min ago",
-    chart: dailySalesChart,
+    chart: completedTasksChart,
   },
   {
     color: "green",
-    title: "Completed Tasks",
+    title: "Bebatuan Chart",
+    description: "Last Campaign Performance",
+    footer: "just updated",
+    chart: completedTasksChart,
+  },
+  {
+    color: "yellow",
+    title: "Artefak Chart",
     description: "Last Campaign Performance",
     footer: "just updated",
     chart: completedTasksChart,

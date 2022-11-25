@@ -1,7 +1,7 @@
 export const projectsData = [
   {
     img: "/img/home-decor-1.jpeg",
-    title: "Vetebrata",
+    title: "Modern",
     tag: "Project #1",
     description:
       "As Uber works through a huge amount of internal management turmoil.",
@@ -15,7 +15,7 @@ export const projectsData = [
   },
   {
     img: "/img/home-decor-2.jpeg",
-    title: "Invetebrata",
+    title: "Scandinavian",
     tag: "Project #2",
     description:
       "Music is something that every person has his or her own specific opinion about.",
@@ -29,7 +29,7 @@ export const projectsData = [
   },
   {
     img: "/img/home-decor-3.jpeg",
-    title: "Bebatuan",
+    title: "Minimalist",
     tag: "Project #3",
     description:
       "Different people have different taste, and various types of music.",
@@ -43,7 +43,7 @@ export const projectsData = [
   },
   {
     img: "/img/home-decor-4.jpeg",
-    title: "Fosil",
+    title: "Gothic",
     tag: "Project #4",
     description:
       "Why would anyone pick blue over pink? Pink is obviously a better color.",
