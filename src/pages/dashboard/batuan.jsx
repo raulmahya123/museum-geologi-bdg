@@ -15,13 +15,13 @@ export function Batuan() {
             floated={false}
             shadow={false} 
             className="lg:w-1/3 w-full">
-            <h1 className="mb-10  items-center justify-between">Fosil</h1>
+            <h1 className="mb-10  items-center justify-between">BATUAN</h1>
                 </CardHeader>
                 <CardBody className="">
                     
                     <CardBody>
           <div className="flex justify-start">
-                            <h1 className="justify-start w-60 md:md-inset-0">KATERI BMN*</h1>
+                            <h1 className="justify-start w-60 md:md-inset-0">KATEGORI BMN*</h1>
                         <Input className="grid justify-items-start " label="KATEGORI BMN" />   
                         </div>
                     <div className="bg-slate-100 rounded-lg px-5 w-80 pr-4  ">
@@ -198,8 +198,8 @@ export function Batuan() {
         
                 <CardBody>
           <div className="flex justify-start">
-                            <h1 className="justify-start w-60 md:md-inset-0">LOKASI TEMUAN</h1>
-                        <Input className="grid justify-items-start " label="LOKASI TEMUAN" />   
+                            <h1 className="justify-start w-60 md:md-inset-0">KEPEMILIKAN AWAL</h1>
+                        <Input className="grid justify-items-start " label="KEPEMILIKAN AWAL" />   
                         </div>
                     <div className="bg-slate-100 rounded-lg px-5 w-80 pr-4  ">
                         <div className="col-start-1 col-end-7 ">             

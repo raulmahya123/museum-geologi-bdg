@@ -51,7 +51,7 @@ export const routes = [
       },
         {
         icon: <GiftIcon {...icon} />,
-        name: "SUMBER DAYA",
+        name: "SUMBER DAYA GEOLOGI",
         path: "/artefak",
         element: <Artefak />,
       },
